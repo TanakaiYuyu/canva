@@ -1,0 +1,16 @@
+.settings-page {
+  padding: 1rem;
+  max-width: 60rem;
+}
+
+.settings-hint {
+  font-size: 2rem;
+  color: var(--settings-hint-color, #666);
+  margin: 0.25rem 0 0;
+}
+
+.settings-hint--error {
+  color: var(--settings-error-color, #c00);
+}
+
+

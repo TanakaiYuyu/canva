@@ -1,0 +1,13 @@
+{
+  "name": "canva",
+  "thumbnailPath": "assets/tos-app.svg",
+  "version": "1.0.0",
+  "mountPoints": {
+    "render": "/render",
+    "settings": "/settings"
+  },
+  "devServer": {
+    "runCommand": "vite --port 5173",
+    "url": "http://localhost:5173"
+  }
+}
